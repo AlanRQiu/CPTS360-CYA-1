@@ -2,9 +2,9 @@
 Career Development Experience: Choose Your Own Adventure 01
 
 ## Chosen Adventure
-**Activity:** Software Development Internship Interview Process
-**Company:** Costco Digital Services
-**Date:** March 2026
+* **Activity:** Software Development Internship Interview Process
+* **Company:** Costco Digital Services
+* **Date:** March 2026
 
 ## Career Goals
 * **Short-Term:** Successfully transition into a professional software development environment through an internship, using my background in C# and .Net
